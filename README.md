@@ -27,9 +27,8 @@
   - [신규 개발 조직의 추가](#신규-개발-조직의-추가)
 
 #과제 제출
-1.     ![image](https://github.com/Ohmneong/example-food-delivery/assets/85545950/784eddec-18bf-44ba-bfda-0ad337e56d52)
-
-
+1. EventStorming Model Design Level
+  ![image](https://github.com/Ohmneong/example-food-delivery/assets/85545950/784eddec-18bf-44ba-bfda-0ad337e56d52)
 
 
 
