@@ -26,6 +26,13 @@
     - [무정지 재배포](#무정지-재배포)
   - [신규 개발 조직의 추가](#신규-개발-조직의-추가)
 
+#과제 제출
+1.     ![image](https://github.com/Ohmneong/example-food-delivery/assets/85545950/784eddec-18bf-44ba-bfda-0ad337e56d52)
+
+
+
+
+
 # 서비스 시나리오
 
 배달의 민족 커버하기 - https://1sung.tistory.com/106
@@ -61,7 +68,7 @@
     - 각 도메인 이벤트가 의미있는 수준으로 정의되었는가?
     - 어그리게잇: Command와 Event 들을 ACID 트랜잭션 단위의 Aggregate 로 제대로 묶었는가?
     - 기능적 요구사항과 비기능적 요구사항을 누락 없이 반영하였는가?   
-    ![image](https://github.com/Ohmneong/example-food-delivery/assets/85545950/784eddec-18bf-44ba-bfda-0ad337e56d52)
+
 
   - 서브 도메인, 바운디드 컨텍스트 분리
     - 팀별 KPI 와 관심사, 상이한 배포주기 등에 따른  Sub-domain 이나 Bounded Context 를 적절히 분리하였고 그 분리 기준의 합리성이 충분히 설명되는가?
