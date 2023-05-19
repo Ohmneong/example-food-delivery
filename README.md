@@ -29,12 +29,15 @@
 #과제 제출
 1. EventStorming Model Design Level
  ![image](https://github.com/Ohmneong/example-food-delivery/assets/85545950/f3f4a6e6-cacc-4aff-907f-c315393ab307)
+ 
+ 
 2. Saga
  ![image](https://github.com/Ohmneong/example-food-delivery/assets/85545950/5ab928b1-7094-4e28-90c7-224469b0ab5c)
-![image](https://github.com/Ohmneong/example-food-delivery/assets/85545950/d72c1891-b0e5-4fbe-a2b0-80a189fd85b1)
-![image](https://github.com/Ohmneong/example-food-delivery/assets/85545950/793f42fa-a273-48a6-895e-7957e798d955)
+ ![image](https://github.com/Ohmneong/example-food-delivery/assets/85545950/d72c1891-b0e5-4fbe-a2b0-80a189fd85b1)
+ ![image](https://github.com/Ohmneong/example-food-delivery/assets/85545950/793f42fa-a273-48a6-895e-7957e798d955)
 
 4. CQRS
+ (일부 캡처)
  ![image](https://github.com/Ohmneong/example-food-delivery/assets/85545950/cddd96af-fb87-4ab4-a158-5862cc8ab78d)
 
 6. compensation and correlation
