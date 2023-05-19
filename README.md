@@ -41,6 +41,7 @@
  ![image](https://github.com/Ohmneong/example-food-delivery/assets/85545950/cddd96af-fb87-4ab4-a158-5862cc8ab78d)
 
 6. compensation and correlation
+![image](https://github.com/Ohmneong/example-food-delivery/assets/85545950/cbed62b4-e6ba-44f9-8ef6-b69a9d7e6bed)
 
 
 
